@@ -12,6 +12,3 @@
 <div align="left">
 sᴇʀᴠᴇʀ ʙᴏᴛ·s ᴄᴏᴅᴇs :<img src="https://cdn.discordapp.com/attachments/931125155621666836/1088432795023577198/code.png" alt="https://github.com/orgs/Smoke-Community/repositories" width="30" height="30" />
 </div>
-
-
-sᴇʀᴠᴇʀ ʙᴏᴛ·s ᴄᴏᴅᴇs : [![Codes](https://cdn.discordapp.com/attachments/931125155621666836/1088432795023577198/code.png)](https://github.com/orgs/Smoke-Community/repositories)</p>
